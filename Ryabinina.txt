@@ -1,3 +1,4 @@
+My second change Ryabinina
  My first change Ryabinina
 Private Sub Rashet()
 Dim sale As Single, i As Integer
