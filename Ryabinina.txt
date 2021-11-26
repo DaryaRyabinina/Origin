@@ -1,3 +1,4 @@
+ My first change Ryabinina
 Private Sub Rashet()
 Dim sale As Single, i As Integer
 i = Worksheets("Накладная").Range("A3").CurrentRegion.Rows.Count + 1
